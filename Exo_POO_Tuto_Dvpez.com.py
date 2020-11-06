@@ -51,5 +51,5 @@ def main():
 
     print(liste_dominos[3])
 
-
+# Voir docstring ci-dessus -> résultat attendu
 main()
